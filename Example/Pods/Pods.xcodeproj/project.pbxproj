@@ -302,12 +302,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		000CD8FA6642DDC1D99A4B06ADBE7077 /* Leanplum-iOS-Location.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "Leanplum-iOS-Location.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		000CD8FA6642DDC1D99A4B06ADBE7077 /* Leanplum-iOS-Location.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "Leanplum-iOS-Location.podspec"; sourceTree = "<group>"; };
 		009D454ECA01AC7D7DA11054FDFA0DED /* OCMIndirectReturnValueProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMIndirectReturnValueProvider.h; path = Source/OCMock/OCMIndirectReturnValueProvider.h; sourceTree = "<group>"; };
 		03616844D8E3821BCC27D861D7F5B36C /* LPRequesting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPRequesting.h; path = "Leanplum-SDK/Classes/Managers/Networking/LPRequesting.h"; sourceTree = "<group>"; };
 		06519F977BEA485CE8F9D44134CFEE84 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		06CEFF8A8ABBD2A3301FD58A3E965ADC /* LPActionContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPActionContext.m; path = "Leanplum-SDK/Classes/Features/Actions/LPActionContext.m"; sourceTree = "<group>"; };
-		071F8F107A61182545EEDF264BB62E65 /* Pods_Leanplum_iOS_LocationAndBeacons_Example_Leanplum_iOS_Location_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Leanplum_iOS_LocationAndBeacons_Example_Leanplum_iOS_Location_Tests.framework; path = "Pods-Leanplum-iOS-LocationAndBeacons_Example-Leanplum-iOS-Location_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		071F8F107A61182545EEDF264BB62E65 /* Pods_Leanplum_iOS_LocationAndBeacons_Example_Leanplum_iOS_Location_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leanplum_iOS_LocationAndBeacons_Example_Leanplum_iOS_Location_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		093F5867D9393460FF5DE018AF070C64 /* LPFileManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPFileManager.m; path = "Leanplum-SDK/Classes/Managers/LPFileManager.m"; sourceTree = "<group>"; };
 		0944132E01132DFFF14732FFB5F9FE8C /* OCPartialMockObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCPartialMockObject.m; path = Source/OCMock/OCPartialMockObject.m; sourceTree = "<group>"; };
 		09FEA9CB932DF7C7CDB891011418DCB3 /* NSTimer+Blocks.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSTimer+Blocks.m"; path = "Leanplum-SDK/Classes/Utilities/Vendor/NSTimer-Blocks/NSTimer+Blocks.m"; sourceTree = "<group>"; };
@@ -338,7 +338,7 @@
 		21242D9633E5B17E5505AD0EF2C9D42B /* Leanplum-iOS-SDK.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Leanplum-iOS-SDK.xcconfig"; sourceTree = "<group>"; };
 		21748FDD5F677CDD53D3C3D98238C12D /* LPNetworkProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPNetworkProtocol.h; path = "Leanplum-SDK/Classes/Managers/Networking/LPNetworkProtocol.h"; sourceTree = "<group>"; };
 		21B2A91A6BEC9EF0F66D150B0BFD8842 /* OCMock-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OCMock-prefix.pch"; sourceTree = "<group>"; };
-		2403078AC04D1A669E866EB8FF6F91B0 /* Pods_Leanplum_iOS_Location_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Leanplum_iOS_Location_Example.framework; path = "Pods-Leanplum-iOS-Location_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2403078AC04D1A669E866EB8FF6F91B0 /* Pods_Leanplum_iOS_Location_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leanplum_iOS_Location_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		24A6978A1FF38ABD325A94250C21C7B0 /* LPRevenueManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPRevenueManager.m; path = "Leanplum-SDK/Classes/Managers/LPRevenueManager.m"; sourceTree = "<group>"; };
 		254D5A0D52DFC645138C9D9047BE6EAD /* OCMBlockArgCaller.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMBlockArgCaller.m; path = Source/OCMock/OCMBlockArgCaller.m; sourceTree = "<group>"; };
 		259E78085B6B6C128DF3F5120EA16C26 /* Pods-Leanplum-iOS-LocationAndBeacons_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Leanplum-iOS-LocationAndBeacons_Example-dummy.m"; sourceTree = "<group>"; };
@@ -349,7 +349,7 @@
 		29C78BD02193B8BC8C2A389028FA797A /* OCObserverMockObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCObserverMockObject.m; path = Source/OCMock/OCObserverMockObject.m; sourceTree = "<group>"; };
 		2AA2B719C8C6E4D72887063566DCCC08 /* LPInbox.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPInbox.h; path = "Leanplum-SDK/Classes/LPInbox.h"; sourceTree = "<group>"; };
 		2B6691EB04CD4A7584E2A5CE4375ED48 /* LPResponse.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPResponse.m; path = "Leanplum-SDK/Classes/Managers/Networking/LPResponse.m"; sourceTree = "<group>"; };
-		2C1B3C7A1097E43608388511A59DB127 /* OCMock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OCMock.framework; path = OCMock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C1B3C7A1097E43608388511A59DB127 /* OCMock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OCMock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C6D9BC5B152BC448D8EC32293AE617D /* OCMFunctionsPrivate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMFunctionsPrivate.h; path = Source/OCMock/OCMFunctionsPrivate.h; sourceTree = "<group>"; };
 		2CFFDCA78BDB765314BC5CF29966161C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		2D026ED0BBDB2658A4836FADED84D089 /* Leanplum_WebSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Leanplum_WebSocket.h; path = "Leanplum-SDK/Classes/Utilities/Vendor/WebSocket/Leanplum_WebSocket.h"; sourceTree = "<group>"; };
@@ -357,7 +357,7 @@
 		2DCC8859C845176A631FD628992114F1 /* Pods-Leanplum-iOS-LocationAndBeacons_Example-Leanplum-iOS-Location_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Leanplum-iOS-LocationAndBeacons_Example-Leanplum-iOS-Location_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		2E503FE0A922349EDCA5E563481A4085 /* OCClassMockObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCClassMockObject.h; path = Source/OCMock/OCClassMockObject.h; sourceTree = "<group>"; };
 		2F169CB4B7D270D9D77FC3A5A741A054 /* UIAlertView+MKNetworkKitAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIAlertView+MKNetworkKitAdditions.m"; path = "Leanplum-SDK/Classes/Utilities/Vendor/MKNetworkKit/Categories/UIAlertView+MKNetworkKitAdditions.m"; sourceTree = "<group>"; };
-		3127AE06BD624EE855E085CA86257384 /* LeanplumLocationAndBeacons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LeanplumLocationAndBeacons.framework; path = "Leanplum-iOS-LocationAndBeacons.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3127AE06BD624EE855E085CA86257384 /* LeanplumLocationAndBeacons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LeanplumLocationAndBeacons.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F61CEACC824BDAF863C70C18BBDC7C /* LPUIEditorWrapper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPUIEditorWrapper.h; path = "Leanplum-SDK/Classes/Features/UIEditor/LPUIEditorWrapper.h"; sourceTree = "<group>"; };
 		332CEB3599766C4B828B1F4F4B972835 /* LPAES.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPAES.h; path = "Leanplum-SDK/Classes/Utilities/Encryption/LPAES.h"; sourceTree = "<group>"; };
 		33596E041A5CA25540A908F5E0EC9ED5 /* OCMLocation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMLocation.h; path = Source/OCMock/OCMLocation.h; sourceTree = "<group>"; };
@@ -365,7 +365,7 @@
 		33CC0A63B8EF2A9DB7EFF906CD0681E5 /* NSValue+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSValue+OCMAdditions.m"; path = "Source/OCMock/NSValue+OCMAdditions.m"; sourceTree = "<group>"; };
 		33F65A82A86BBB9F7F3D35EA1290136E /* OCMBlockArgCaller.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMBlockArgCaller.h; path = Source/OCMock/OCMBlockArgCaller.h; sourceTree = "<group>"; };
 		35075454DEA23E6EE2386E76E7D34A4C /* UIDevice+IdentifierAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIDevice+IdentifierAddition.h"; path = "Leanplum-SDK/Classes/Utilities/Vendor/UniqueIdentifier/UIDevice+IdentifierAddition.h"; sourceTree = "<group>"; };
-		3517D2BE800281AB4642B5B8057B8D8E /* Pods_Leanplum_iOS_LocationAndBeacons_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Leanplum_iOS_LocationAndBeacons_Example.framework; path = "Pods-Leanplum-iOS-LocationAndBeacons_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3517D2BE800281AB4642B5B8057B8D8E /* Pods_Leanplum_iOS_LocationAndBeacons_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leanplum_iOS_LocationAndBeacons_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3938CA2A3CD92BBC0B49637B70CF052B /* LPVarCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPVarCache.h; path = "Leanplum-SDK/Classes/Features/Variables/LPVarCache.h"; sourceTree = "<group>"; };
 		394D6EC20A52323BE0A9AE25B9DA675D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		3AE1ACB191ABC6DFAB2BA059BF4AEE32 /* OCMExceptionReturnValueProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMExceptionReturnValueProvider.m; path = Source/OCMock/OCMExceptionReturnValueProvider.m; sourceTree = "<group>"; };
@@ -399,7 +399,7 @@
 		597A24ED0C247AE1A261BB0A6568E131 /* LPJSON.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPJSON.m; path = "Leanplum-SDK/Classes/Utilities/LPJSON.m"; sourceTree = "<group>"; };
 		59B8073B2A5AE0C4A320B96603BB69E5 /* NSObject+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+OCMAdditions.m"; path = "Source/OCMock/NSObject+OCMAdditions.m"; sourceTree = "<group>"; };
 		5A53322399738FB8491445C6E2C90174 /* MKNetworkKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKNetworkKit.h; path = "Leanplum-SDK/Classes/Utilities/Vendor/MKNetworkKit/MKNetworkKit.h"; sourceTree = "<group>"; };
-		5B065C7D90689CA9251F6693902EBE5C /* Leanplum-iOS-LocationAndBeacons.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "Leanplum-iOS-LocationAndBeacons.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5B065C7D90689CA9251F6693902EBE5C /* Leanplum-iOS-LocationAndBeacons.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "Leanplum-iOS-LocationAndBeacons.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5BA0BB2FBF43A76F906CB265FA3FF8A2 /* Leanplum-iOS-LocationAndBeacons-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Leanplum-iOS-LocationAndBeacons-dummy.m"; sourceTree = "<group>"; };
 		5D6BE85146B471460E308621780E12F1 /* NSObject+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+OCMAdditions.h"; path = "Source/OCMock/NSObject+OCMAdditions.h"; sourceTree = "<group>"; };
 		5D734E87672A1727B94581BDA600DA1E /* Leanplum-iOS-Location-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Leanplum-iOS-Location-dummy.m"; sourceTree = "<group>"; };
@@ -411,7 +411,7 @@
 		60976D6278DFF88D9E4118BAD01B0A41 /* LPEnumConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPEnumConstants.h; path = "Leanplum-SDK/Classes/Internal/LPEnumConstants.h"; sourceTree = "<group>"; };
 		614B6047C85FB03F345C152A273BC943 /* OCMMacroState.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMMacroState.h; path = Source/OCMock/OCMMacroState.h; sourceTree = "<group>"; };
 		628CDEF249C3A8ADF6A2EB364DE5FCFC /* LPContextualValues.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPContextualValues.h; path = "Leanplum-SDK/Classes/Internal/LPContextualValues.h"; sourceTree = "<group>"; };
-		630BE1CABF66FBB3C180315DE2FDDCA7 /* LeanplumLocation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LeanplumLocation.framework; path = "Leanplum-iOS-Location.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		630BE1CABF66FBB3C180315DE2FDDCA7 /* LeanplumLocation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LeanplumLocation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		667C762AFA2549094ACEFF552E724E1C /* NSDictionary+RequestEncoding.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+RequestEncoding.m"; path = "Leanplum-SDK/Classes/Utilities/Vendor/MKNetworkKit/Categories/NSDictionary+RequestEncoding.m"; sourceTree = "<group>"; };
 		66E55E0FDA80E784F44050C14BC8C7EF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		672ADCCA64165AA6DCEC3A33F12A7D1C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -452,7 +452,7 @@
 		9138E43D9AA18768BE4FE4A7F09C3715 /* LPConstants.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPConstants.m; path = "Leanplum-SDK/Classes/Internal/LPConstants.m"; sourceTree = "<group>"; };
 		915092F4B1A31EA668B31586DBE1C3C3 /* LPRevenueManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPRevenueManager.h; path = "Leanplum-SDK/Classes/Managers/LPRevenueManager.h"; sourceTree = "<group>"; };
 		932D4A1C95138171797890F96834592B /* OCMRealObjectForwarder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMRealObjectForwarder.m; path = Source/OCMock/OCMRealObjectForwarder.m; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94F154B9E0F3DDC62AB95F0959481E1A /* Pods-Leanplum-iOS-Location_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Leanplum-iOS-Location_Example-dummy.m"; sourceTree = "<group>"; };
 		9526426B71F2B4D5AA9DF6D00D079AF4 /* LPKeychainWrapper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPKeychainWrapper.m; path = "Leanplum-SDK/Classes/Utilities/LPKeychainWrapper.m"; sourceTree = "<group>"; };
 		960FA16C0C4E7BFF32355BC188577306 /* Leanplum.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Leanplum.h; path = "Leanplum-SDK/Classes/Leanplum.h"; sourceTree = "<group>"; };
@@ -474,7 +474,7 @@
 		9EEE3889A6069963C21B8339869150D7 /* Leanplum_Reachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Leanplum_Reachability.h; path = "Leanplum-SDK/Classes/Utilities/Vendor/Reachability/Leanplum_Reachability.h"; sourceTree = "<group>"; };
 		9F01317F093DE1BE02C6C9073EEE8551 /* Pods-Leanplum-iOS-Location_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Leanplum-iOS-Location_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A2667A543E6608A42B5F2EEEB8822C07 /* UIDevice+IdentifierAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+IdentifierAddition.m"; path = "Leanplum-SDK/Classes/Utilities/Vendor/UniqueIdentifier/UIDevice+IdentifierAddition.m"; sourceTree = "<group>"; };
-		A4F8D0BF307638C18F9664B479EF1ACA /* FileMD5Hash.c */ = {isa = PBXFileReference; includeInIndex = 1; name = FileMD5Hash.c; path = "Leanplum-SDK/Classes/Utilities/FileMD5Hash.c"; sourceTree = "<group>"; };
+		A4F8D0BF307638C18F9664B479EF1ACA /* FileMD5Hash.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = FileMD5Hash.c; path = "Leanplum-SDK/Classes/Utilities/FileMD5Hash.c"; sourceTree = "<group>"; };
 		A5D1A0E2A7695E6D2B943D97AE626EB4 /* Pods-Leanplum-iOS-LocationAndBeacons_Example-Leanplum-iOS-Location_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Leanplum-iOS-LocationAndBeacons_Example-Leanplum-iOS-Location_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A601502F740A30BD0FF8BEEE60845721 /* LeanplumCompatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LeanplumCompatibility.h; path = "Leanplum-SDK/Classes/LeanplumCompatibility.h"; sourceTree = "<group>"; };
 		A831A282CC826D91D5A797B918FCF3A0 /* LPAppIconManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPAppIconManager.h; path = "Leanplum-SDK/Classes/Managers/LPAppIconManager.h"; sourceTree = "<group>"; };
@@ -488,7 +488,7 @@
 		B0D1FE85344C9A2466E58F2564605948 /* LPActionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPActionManager.m; path = "Leanplum-SDK/Classes/Features/Actions/LPActionManager.m"; sourceTree = "<group>"; };
 		B3064870563343DA8F73E2E9D37FA415 /* OCMock.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = OCMock.modulemap; sourceTree = "<group>"; };
 		B3410112177BB5A650A8BD53B46C042E /* LPFeatureFlagManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPFeatureFlagManager.m; path = "Leanplum-SDK/Classes/Internal/FeatureFlag/LPFeatureFlagManager.m"; sourceTree = "<group>"; };
-		B436349F024824106F785253BC432D77 /* Leanplum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Leanplum.framework; path = "Leanplum-iOS-SDK.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B436349F024824106F785253BC432D77 /* Leanplum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Leanplum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B48AA8B1F40BF104477F64DF1752060C /* OCObserverMockObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCObserverMockObject.h; path = Source/OCMock/OCObserverMockObject.h; sourceTree = "<group>"; };
 		B4AE00A2B581AC2E3033A0F88EEC7A53 /* LPEventCallback.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LPEventCallback.m; path = "Leanplum-SDK/Classes/Features/Events/LPEventCallback.m"; sourceTree = "<group>"; };
 		B5416A46D41A67E23C945CC868B390C4 /* LPConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LPConstants.h; path = "Leanplum-SDK/Classes/Internal/LPConstants.h"; sourceTree = "<group>"; };
@@ -829,7 +829,6 @@
 				AD9EC9387E0D9947DCD4BC1E6253CAF4 /* OCProtocolMockObject.m */,
 				24FD933B89B0852D7BC7561EA3EB23F9 /* Support Files */,
 			);
-			name = OCMock;
 			path = OCMock;
 			sourceTree = "<group>";
 		};
@@ -1069,7 +1068,6 @@
 				A2667A543E6608A42B5F2EEEB8822C07 /* UIDevice+IdentifierAddition.m */,
 				EC650728BABE73C469CEEF7DCE01D1EA /* Support Files */,
 			);
-			name = "Leanplum-iOS-SDK";
 			path = "Leanplum-iOS-SDK";
 			sourceTree = "<group>";
 		};
@@ -1380,6 +1378,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
